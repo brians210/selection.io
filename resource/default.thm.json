@@ -29,7 +29,7 @@
 		"resource/eui_skins/ToggleSwitchSkin.exml",
 		"resource/eui_skins/VScrollBarSkin.exml",
 		"resource/eui_skins/VSliderSkin.exml",
-		"resource/skin/gotchaPageSkin.exml",
+		"resource/skin/mainPageSkin.exml",
 		"resource/skin/resultPageSkin.exml"
 	],
 	"path": "resource/default.thm.json"
